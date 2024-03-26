@@ -63,15 +63,15 @@
 
 <h1 align="center">title</h1>
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ed09-00&show_icons=true&locale=en&layout=compact&theme=dark" alt="ed09-00" /></p>
+  <center><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ed09-00&show_icons=true&locale=en&layout=compact&theme=dark" alt="ed09-00" /></center>
 </div>
 
 <h1 align="center">title</h1>
 <div>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ed09-00&show_icons=true&locale=en&theme=dark" alt="ed09-00" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ed09-00&show_icons=true&locale=en&theme=dark" alt="ed09-00" />
 </div>
 
 <h1 align="center">title</h1>
 <div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ed09-00&" alt="ed09-00&theme=dark" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ed09-00&" alt="ed09-00&theme=dark" />
 </div>
