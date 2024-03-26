@@ -9,11 +9,14 @@
 
 - 📝 I regularly write articles on [https://lilac-minibus-d1d.notion.site/886f18e781a34d18a56805c088ce18e5?v=05e1c79b102246ba8fa27a72076f04f3](https://lilac-minibus-d1d.notion.site/886f18e781a34d18a56805c088ce18e5?v=05e1c79b102246ba8fa27a72076f04f3)
 
-- 💬 Ask me about **flutter,**
+- 💬 Ask me about **Flutter、 web**
 
 - 📫 How to reach me **a19370000@gmail.com**
 
-
+<h1 align="center">Competition</h1>
+<li>The 2020 ICPC Asia Taipei-Hsinchu Site Programming Contest</li>
+<li>The 2021 ICPC Asia Taipei Regional Programming Contest</li>
+<li>The 2022 ICPC Taiwan Technology University Programming Contest🥈 <a href="https://csie.nfu.edu.tw/news/ID/102">info</a></li>
 
 <h1 align="center">My skills.</h1>
 
@@ -61,17 +64,17 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></h3>
 </div>
 
-<h1 align="center">title</h1>
+<h1 align="center">Most Used Languages</h1>
 <div>
   <center><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ed09-00&show_icons=true&locale=en&layout=compact&theme=dark" alt="ed09-00" /></center>
 </div>
 
-<h1 align="center">title</h1>
+<h1 align="center">GitHub Stats</h1>
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ed09-00&show_icons=true&locale=en&theme=dark" alt="ed09-00" />
 </div>
 
-<h1 align="center">title</h1>
+<h1 align="center">Streak Stats</h1>
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ed09-00&" alt="ed09-00&theme=dark" />
 </div>
