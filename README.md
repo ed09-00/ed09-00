@@ -18,8 +18,26 @@
 <li>The 2021 ICPC Asia Taipei Regional Programming Contest</li>
 <li>The 2022 ICPC Taiwan Technology University Programming Contest🥈 <a href="https://csie.nfu.edu.tw/news/ID/102">info</a></li>
 
-<h1 align="center">My skills.</h1>
+<h1 align="center">Teaching Assistant Experience & Work Experience </h1>
+<h3>C++ Programming Teaching Assistant (2020/1 - 2020/6, 2020/9 - 2021/6, 2021/9 - 2022/6)</h3>
+<li>Assisted professors with C++ programming courses, providing guidance and support to students during lectures and lab sessions.</li>
+<li>Developed and delivered course materials, including assignments, quizzes, and exams.</li>
+<li>Held office hours to answer student questions and provide individual assistance.</li>
 
+
+
+
+<h3>Python Programming Teaching Assistant (2021/1 - 2021/6)</h3>
+<li>Assisted professors with Python programming courses, providing guidance and support to students during lectures and lab sessions.</li>
+<li>Developed and delivered course materials, including assignments, quizzes, and exams.</li>
+<li>Held office hours to answer student questions and provide individual assistance.</li>
+
+<h3>NFU Computing Center Project (2021/1 - 2021/8)</h3>
+<li>Designed and implemented an algorithm for the NFU Computing Center's website to automate the ranking of applicants for the two-year technical program.</li>
+<li>This algorithm significantly reduced the chance of human error in the application review process and considerably decreased the time required for staff to verify data.</li>
+
+
+<h1 align="center">My skills.</h1>
 <div>
 <h3 >Programming Languages:<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></h3>
 </div>
