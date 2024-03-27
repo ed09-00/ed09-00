@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 吳睿騰.</h1>
-<h3 align="center">A mobile App developer from Taiwan.</h3>
+<h3 align="center">A mobile App & web developer from Taiwan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ed09-00&label=Profile%20views&color=0e75b6&style=flat" alt="ed09-00" /> </p>
 
